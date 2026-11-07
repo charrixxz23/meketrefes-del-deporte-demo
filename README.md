@@ -43,7 +43,7 @@ Desarrollo de la demo: [charrixxz23](https://github.com/charrixxz23). El desarro
 
 ## Tecnologías
 
-React 18 · Vite 6 · TypeScript (estricto) · Tailwind CSS 3 · React Router 6 · Lucide · Barlow Condensed y Archivo (`@fontsource`) ·
+React 18 · Vite 6 · TypeScript (estricto) · Tailwind CSS 3 · React Router 7 · Lucide · Barlow Condensed y Archivo (`@fontsource`) ·
 Vitest + Testing Library · Playwright · GitHub Actions + GitHub Pages.
 
 Sin backend, sin claves de API y sin servicios de pago.

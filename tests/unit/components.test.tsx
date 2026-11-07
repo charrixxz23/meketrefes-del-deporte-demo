@@ -9,7 +9,7 @@ import { YouTubePlayer } from "../../src/components/YouTubePlayer";
 describe("componentes", () => {
   it("el pie muestra el aviso obligatorio", () => {
     render(
-      <MemoryRouter future={{ v7_startTransition: true, v7_relativeSplatPath: true }}>
+      <MemoryRouter>
         <TourProvider>
           <Footer />
         </TourProvider>
